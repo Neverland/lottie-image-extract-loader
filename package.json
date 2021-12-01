@@ -1,6 +1,6 @@
 {
   "name": "lottie-image-extract-loader",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Extract Base64 in Lottie JSON and save it as a image.",
   "main": "index.js",
   "scripts": {
