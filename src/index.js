@@ -5,7 +5,6 @@
  * @since 2021/12/01
  */
 
-
-export default function loader() {
+export default function loader(content, map, meta) {
     // console.log(content, map, meta);
 }
